@@ -45,7 +45,7 @@ We have preconfigured `npm` to automatically run `bower` so we can simply do:
 npm install
 ```
 
-Behind the scenes this will also call `bower install`.  You should find that you have two new
+Behind the scenes this will also call `bower install`.  You cd should find that you have two new
 folders in your project.
 
 * `node_modules` - contains the npm packages for the tools we need

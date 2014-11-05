@@ -17,6 +17,7 @@
 
 .menu > li {
   display: inline;
+  font-family:Courier;
 }
 
 .menu > li:before {
